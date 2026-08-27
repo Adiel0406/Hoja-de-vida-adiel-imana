@@ -142,5 +142,4 @@ hoja-vida/
 │   │   └── presentacion.mp3
 │   └── video/
 │       ├── proyecto.mp4
-│       └── subtitulos.vtt
 └── README.md
